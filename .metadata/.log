@@ -1,0 +1,9 @@
+!SESSION 2012-05-17 11:59:38.515 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 2 0 2012-05-17 12:01:55.000
+!MESSAGE Could not remove temporary backup directory (it is safe to manually delete it and its contents): C:\DOCUME~1\HP_ADM~1\LOCALS~1\Temp\AptanaProfile_26eb85af8a60_c0a8016c0d58
